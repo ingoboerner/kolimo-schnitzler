@@ -1,0 +1,5 @@
+./schnitzler_liebelei_1896.TEI-P5.txt
+./schnitzler_reigen_1903.TEI-P5.txt
+./schnitzler_traumnovelle_1926.TEI-P5.txt
+./schnitzler_else_1924.TEI-P5.txt
+./schnitzler_anatol_1893.TEI-P5.txt
