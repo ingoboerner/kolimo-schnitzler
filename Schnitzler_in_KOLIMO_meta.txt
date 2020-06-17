@@ -1,0 +1,70 @@
+TITLE	KOLIMO DATE	DATE OF PUBLICATION	DTA-FILENAME	GUTENBERG-PROJECT-FILENAME	TEXTGRID-FILENAME	BEMERKUNG	PMB-URI
+Albine	NA	1895		albine.txt			
+Amerika	NA	1895		amerika1.txt	97185-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30069
+Anatol	NA	1893	schnitzler_anatol_1893.TEI-P5.txt	anatol.txt		gp: abweichendes Pubdate 1892	
+Andreas Thameyers letzter Brief	NA	NA			97209-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30647
+Blumen	NA	NA			97197-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30453
+Casanovas Heimfahrt	NA	1918		casaheim.txt	97229-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30971
+Das neue Lied	NA	NA		neuelied.txt	97218-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30655
+Das Schicksal des Freiherrn von Leisenbohg	NA	NA		leisenbo.txt	97216-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30057
+Das Tagebuch der Redegonda	NA	NA			97222-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30349
+Der Andere	NA	1895		andere.txt	97189-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33746
+Der blinde Geronimo und sein Bruder	NA	NA		geronimo.txt	97207-Schnitzler__Arthur.txt	gp: abweichender Titel: Der blinde Geronimo und sein Bruder (1)	https://pmb.acdh.oeaw.ac.at/entity/30649
+Der Ehrentag	1907	NA		ehrentag.txt	97202-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/29831
+Der einsame Weg	NA	1904		einsweg.txt			https://pmb.acdh.oeaw.ac.at/entity/29985
+Der Empfindsame	NA	NA			97200-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33748
+Der F�rst ist im Hause	NA	1895		fuerst.txt	97187-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33750
+Der letzte Brief eines Literaten	NA	NA			97228-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30893
+Der Mörder	NA	NA			97223-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33754
+Der Ruf des Lebens	NA	1906		rufleben.txt			https://pmb.acdh.oeaw.ac.at/entity/29905
+Der Schleier der Beatrice	NA	1901		beatrice.txt			https://pmb.acdh.oeaw.ac.at/entity/29857
+Der Sekundant	NA	NA			97234-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30953
+Der Sohn	NA	1899		sohn.txt	97193-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30257
+Der Tod des Junggesellen	NA	NA			97220-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33758
+Der tote Gabriel	NA	NA			97221-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33760
+Der Weg ins Freie	NA	1908		wegfreie.txt	97181-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/29923
+Der Witwer	NA	NA		witwer.txt	97198-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30407
+Die Braut	NA	1895		diebraut.txt	97192-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30165
+Die drei Elixiere	NA	1890		3elixier.txt	97191-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/35777
+Die dreifache Warnung	NA	NA		3warnung.txt	97224-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33061
+Die Frau des Richters	NA	1925		frichter.txt	97231-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30751
+Die Frau des Weisen	NA	1898		frauweis.txt	97201-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30075
+Die Fremde	NA	1902		fremde.txt	97213-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33776
+Die Gefährtin	NA	1899		gefaehrt.txt			https://pmb.acdh.oeaw.ac.at/entity/29845
+Die griechische Tänzerin	NA	NA		grtaenze.txt	97215-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30301
+Die grüne Krawatte	NA	NA			97212-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33786
+Die Hirtenflöte	NA	1922		hirtenfl.txt	97225-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30213
+Die kleine Komödie	NA	NA			97195-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/31975
+Die Nächste	NA	NA			97205-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33794
+Die Toten schweigen	NA	NA		totschwg.txt	97203-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/29833
+Die Weissagung	NA	NA		weissagu.txt	97217-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30683
+Doktor Gräsler, Badearzt	NA	1917		graesler.txt	97227-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30201
+Ein Abschied	NA	NA			97199-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33806
+Ein Erfolg	NA	NA			97211-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33808
+Er wartet auf den vazierenden Gott	NA	1895		vaziernd.txt	97184-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/32586
+Erbschaft	NA	1895		erbschft.txt	97186-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33814
+Exzentrik	NA	NA			97214-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/35786
+Flucht in die Finsternis	NA	NA			97235-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30863
+Frau Beate und ihr Sohn	NA	1913		fraubeat.txt	97226-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/32133
+Frau Berta Garlan	NA	1901		bertagar.txt	97208-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30486
+Fräulein Else	NA	1924	schnitzler_else_1924.TEI-P5.txt	else.txt	97230-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/29941
+Frühlingsnacht im Seziersaal	NA	1895		sezier.txt			https://pmb.acdh.oeaw.ac.at/entity/33822
+Geschichte eines Genies	NA	NA			97219-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/35505
+Gespräch in der Kaffeehausecke	NA	1895		kaffeehs.txt			https://pmb.acdh.oeaw.ac.at/entity/33688
+Jugend in Wien	NA	NA			97236-Schnitzler__Arthur.txt		
+Komödiantinnen	NA	NA			97196-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33788
+Leutnant Gustl	NA	1901		gustl.txt	97206-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/29853
+Liebelei	NA	1896	schnitzler_liebelei_1896.TEI-P5.txt	liebelei.txt		gp: abweichendes PubDate 1895	https://pmb.acdh.oeaw.ac.at/entity/29917
+Marionetten	NA	1906		marionet.txt			
+Mein Freund Ypsilon	NA	1895		ypsilon.txt	97188-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33710
+Paracelsus	NA	1899		paracels.txt			https://pmb.acdh.oeaw.ac.at/entity/30403
+Reichtum	NA	NA			97190-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30277
+Reigen	NA	1903	schnitzler_reigen_1903.TEI-P5.txt	reigen.txt			https://pmb.acdh.oeaw.ac.at/entity/29855
+Spiel im Morgengrauen	NA	1927		spielmor.txt	97233-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/32131
+Sterben	NA	1892		sterben.txt	97194-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30117
+Therese	NA	1928		therese.txt	97182-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30817
+Traumnovelle	NA	1926	schnitzler_traumnovelle_1926.TEI-P5.txt	traumnov.txt	97232-Schnitzler__Arthur.txt	gp: abweichender Titel: Traumnovelle / 1	https://pmb.acdh.oeaw.ac.at/entity/30851
+Um eine Stunde	NA	NA			97204-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33872
+Welch eine Melodie	NA	1895		melodie.txt	97183-Schnitzler__Arthur.txt		
+Wohltaten Still und Rein gegeben	NA	NA			97210-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33880
+Zwischenspiel	NA	1906		zwspiel.txt			https://pmb.acdh.oeaw.ac.at/entity/29903
