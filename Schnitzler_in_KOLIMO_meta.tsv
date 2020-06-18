@@ -1,7 +1,7 @@
 TITLE	KOLIMO DATE	DATE OF PUBLICATION	DTA-FILENAME	GUTENBERG-PROJECT-FILENAME	TEXTGRID-FILENAME	BEMERKUNG	PMB-URI
-Albine	NA	1895		albine.txt    https://pmb.acdh.oeaw.ac.at/entity/33728			
+Albine	NA	1895		albine.txt			https://pmb.acdh.oeaw.ac.at/entity/33728
 Amerika	NA	1895		amerika1.txt	97185-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30069
-Anatol	NA	1893	schnitzler_anatol_1893.TEI-P5.txt	anatol.txt		gp: abweichendes Pubdate 1892  https://pmb.acdh.oeaw.ac.at/entity/29935
+Anatol	NA	1893	schnitzler_anatol_1893.TEI-P5.txt	anatol.txt		gp: abweichendes Pubdate 1892	https://pmb.acdh.oeaw.ac.at/entity/29935
 Andreas Thameyers letzter Brief	NA	NA			97209-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30647
 Blumen	NA	NA			97197-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30453
 Casanovas Heimfahrt	NA	1918		casaheim.txt	97229-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30971
@@ -51,11 +51,11 @@ Fräulein Else	NA	1924	schnitzler_else_1924.TEI-P5.txt	else.txt	97230-Schnitzler
 Frühlingsnacht im Seziersaal	NA	1895		sezier.txt			https://pmb.acdh.oeaw.ac.at/entity/33822
 Geschichte eines Genies	NA	NA			97219-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/35505
 Gespräch in der Kaffeehausecke	NA	1895		kaffeehs.txt			https://pmb.acdh.oeaw.ac.at/entity/33688
-Jugend in Wien	NA	NA			97236-Schnitzler__Arthur.txt   https://pmb.acdh.oeaw.ac.at/entity/31377
+Jugend in Wien	NA	NA			97236-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/31377
 Komödiantinnen	NA	NA			97196-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33788
 Leutnant Gustl	NA	1901		gustl.txt	97206-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/29853
 Liebelei	NA	1896	schnitzler_liebelei_1896.TEI-P5.txt	liebelei.txt		gp: abweichendes PubDate 1895	https://pmb.acdh.oeaw.ac.at/entity/29917
-Marionetten	NA	1906		marionet.txt   https://pmb.acdh.oeaw.ac.at/entity/29859
+Marionetten	NA	1906		marionet.txt			https://pmb.acdh.oeaw.ac.at/entity/29859
 Mein Freund Ypsilon	NA	1895		ypsilon.txt	97188-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33710
 Paracelsus	NA	1899		paracels.txt			https://pmb.acdh.oeaw.ac.at/entity/30403
 Reichtum	NA	NA			97190-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30277
@@ -65,6 +65,6 @@ Sterben	NA	1892		sterben.txt	97194-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw
 Therese	NA	1928		therese.txt	97182-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/30817
 Traumnovelle	NA	1926	schnitzler_traumnovelle_1926.TEI-P5.txt	traumnov.txt	97232-Schnitzler__Arthur.txt	gp: abweichender Titel: Traumnovelle / 1	https://pmb.acdh.oeaw.ac.at/entity/30851
 Um eine Stunde	NA	NA			97204-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33872
-Welch eine Melodie	NA	1895		melodie.txt	97183-Schnitzler__Arthur.txt    https://pmb.acdh.oeaw.ac.at/entity/33878
+Welch eine Melodie	NA	1895		melodie.txt	97183-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33878
 Wohltaten Still und Rein gegeben	NA	NA			97210-Schnitzler__Arthur.txt		https://pmb.acdh.oeaw.ac.at/entity/33880
 Zwischenspiel	NA	1906		zwspiel.txt			https://pmb.acdh.oeaw.ac.at/entity/29903
